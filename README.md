@@ -20,3 +20,4 @@
 |16| [Data Visualization](https://github.com/PMikhail1681/Certificates/blob/main/Data%20Visualization.png) | Kaggle |
 |17| [Intro to Machine Learning](https://github.com/PMikhail1681/Certificates/blob/main/Intro%20to%20Machine%20Learning.png) | Kaggle |
 |18| [Pandas](https://github.com/PMikhail1681/Certificates/blob/main/Pandas.png) | Kaggle |
+|19| [Microsoft Power BI, Power Query, DAX](https://github.com/PMikhail1681/Certificates/blob/main/Microsoft%20Power%20BI%2C%20Power%20Query%2C%20DAX.png | Stepik, Алексей Андросов |
